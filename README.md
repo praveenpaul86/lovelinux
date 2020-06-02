@@ -1,0 +1,2 @@
+# lovelinux
+learning shell scripting
